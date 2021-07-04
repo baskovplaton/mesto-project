@@ -1,6 +1,7 @@
 .photo-card {
     min-width: 282px;
-    min-height: 361px;
+    height: 361px;
     border-radius: 10px;
     background-color: #fff;
+    overflow: hidden;
    }
