@@ -5,6 +5,7 @@
 @media screen and (max-width: 950px) {
     .photo-cards {
         width: 88%;
+        padding-top: 36px;
     }
     
 }

@@ -16,5 +16,7 @@
   @media screen and (max-width: 650px){
     .photo-cards__elements{
       grid-template-columns: 1fr;
+      margin-top: 0;
+      margin-bottom: 0;
     }
   }

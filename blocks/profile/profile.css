@@ -15,5 +15,6 @@
           flex-wrap: nowrap;
           width: 88%;
           flex-direction: column;
+          padding-top: 42px;
       }
   }
