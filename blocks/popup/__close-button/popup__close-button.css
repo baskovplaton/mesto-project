@@ -6,7 +6,7 @@
     background-color: transparent;
     height: 32px;
     width: 32px;
-    background-image: url('../../../images/close-icon.svg');
+    background-image: url('../../../images/close-icon(2).svg');
   }
   .popup__close-button:hover {
     opacity: 0.6;
